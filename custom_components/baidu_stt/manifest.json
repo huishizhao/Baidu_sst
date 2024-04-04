@@ -4,9 +4,9 @@
   "config_flow": true,
   "version": "1.0.1",
   "codeowners": ["@huishizhao"],
-  "documentation": "https://github.com/huishizhao/baidu_stt",
+  "documentation": "https://github.com/huishizhao/Baidu_sst/",
   "iot_class": "cloud_push",
   "loggers": ["aip"],
-  "issue_tracker": "https://github.com/huishizhao/baidu_stt/issues",
+  "issue_tracker": "https://github.com/huishizhao/Baidu_sst/issues/",
   "requirements": ["baidu-aip==1.6.6"]
 }

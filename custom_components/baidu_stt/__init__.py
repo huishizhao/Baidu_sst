@@ -2,10 +2,10 @@
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.const import Platform
 from homeassistant.core import HomeAssistant
-from .manifest import manifest
+#from .manifest import manifest
 
-DOMAIN = manifest.domain
-NAME = manifest.name
+#DOMAIN = manifest.domain
+#NAME = manifest.name
 
 PLATFORMS = (Platform.STT,)
 

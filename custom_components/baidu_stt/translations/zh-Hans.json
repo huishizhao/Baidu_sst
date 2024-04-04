@@ -10,16 +10,10 @@
 					"api_key" : "APK Key",
 					"secret_key": "Secret Key"
 				}
-			
 			}
 		},
         "abort": {
-            "already_configured": "This UID has been already configured"
-		},
-        "error": {
-            "invalid_uid": "错误的 APPID, AkP Key 或 Secret Key",
+            "single_instance_allowed": "只允许建立一个实例"
 		}
-
     }
-
 }
