@@ -1,0 +1,25 @@
+{
+	"config": {
+		"title": "百度语音识别",
+		"step": {			
+			"user": {
+				"title": "Baidu Speech-To-Text",
+				"description": "输入百度语音识别 APPID, API Key, Secret Key",
+				"data": {
+					"app_id" : "APPID",
+					"api_key" : "APK Key",
+					"secret_key": "Secret Key"
+				}
+			
+			}
+		},
+        "abort": {
+            "already_configured": "This UID has been already configured"
+		},
+        "error": {
+            "invalid_uid": "错误的 APPID, AkP Key 或 Secret Key",
+		}
+
+    }
+
+}

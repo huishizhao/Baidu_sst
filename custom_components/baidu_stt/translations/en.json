@@ -1,0 +1,19 @@
+{
+	"config": {
+		"title": "Baidu Speech-To-Text",
+		"step": {			
+			"user": {
+				"title": "Baidu Speech-To-Text",
+				"description": "Enter Baidu cloud AI APPID, API Key, Secret Key",
+				"data": {
+					"app_id" : "APPID",
+					"api_key" : "APK Key",
+					"secret_key": "Secret Key"
+				}
+			}
+		},
+        "abort": {
+            "single_instance_allowed": "Only allow single instance"
+		}
+    }
+}

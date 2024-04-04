@@ -1,0 +1,6 @@
+{
+    "name": "baidu_stt",
+    "render_readme": true,
+    "country": "CN",
+    "homeassistant": "2024.4.3"
+}
